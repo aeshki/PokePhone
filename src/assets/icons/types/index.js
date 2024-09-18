@@ -1,0 +1,19 @@
+export { default as BugTypeIcon } from './BugTypeIcon';
+export { default as DarkTypeIcon } from './DarkTypeIcon';
+export { default as DragonTypeIcon } from './DragonTypeIcon';
+export { default as ElectricTypeIcon } from './ElectricTypeIcon';
+export { default as FairyTypeIcon } from './FairyTypeIcon';
+export { default as FightingTypeIcon } from './FightingTypeIcon';
+export { default as FireTypeIcon } from './FireTypeIcon';
+export { default as FlyingTypeIcon } from './FlyingTypeIcon';
+export { default as GhostTypeIcon } from './GhostTypeIcon';
+export { default as GrassTypeIcon } from './GrassTypeIcon';
+export { default as GroundTypeIcon } from './GroundTypeIcon';
+export { default as IceTypeIcon } from './IceTypeIcon';
+export { default as NormalTypeIcon } from './NormalTypeIcon';
+export { default as PoisonTypeIcon } from './PoisonTypeIcon';
+export { default as PsychicTypeIcon } from './PsychicTypeIcon';
+export { default as RockTypeIcon } from './RockTypeIcon';
+export { default as SteelTypeIcon } from './SteelTypeIcon';
+export { default as WaterTypeIcon } from './WaterTypeIcon';
+
